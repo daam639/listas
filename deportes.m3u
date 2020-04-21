@@ -1,0 +1,213 @@
+#EXTM3U
+
+#EXTINF:-1, Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+
+#EXTINF:-1, Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
+
+
+#EXTINF:-1, DEPORTES: Sports 1 HD
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
+
+#EXTINF:-1, ESPAÑA Lancelot TV
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+
+#EXTINF:-1, Fight time (ufc)
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
+
+#EXTINF:-1, Pinguino TV
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
+
+#EXTINF:-1, Bayern Munchen TV
+http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/playlist.m3u8
+
+#EXTINF:-1, Flow Sports
+http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
+
+#EXTINF:-1, Telecaribe Deportes
+http://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8
+
+EXTINF:-1, Fight Time
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/chunklist_w984445701_b664000.m3u8
+
+#EXTINF:-1, Stadium Sports Network
+https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
+
+#EXTINF:-1, SPORTSMAX
+http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
+
+#EXTINF:-1, Setanta Sports
+http://ott-cdn.ucom.am/s81/04.m3u8
+
+#EXTINF:-1, Setanta Sports +
+http://ott-cdn.ucom.am/s82/04.m3u8
+
+#EXTINF:-1, CBS
+http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
+
+#EXTINF:-1, France 24
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+
+#EXTINF:-1, Sky NEWS
+http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8
+
+
+#EXTINF:-1, Flow Sports
+http://161.0.157.5/PLTV/88888888/224/3221226899/index.m3u8
+
+#EXTINF:-1, Abu Dhabi Sports
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?xtreamiptv.m3u8
+
+#EXTINF:-1, Al Kass Sports
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?xtreamiptv.m3u8
+
+#EXTINF:-1, REDBULL TV
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+
+#EXTINF:-1, NBC
+http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
+
+#EXTINF:-1, Bolivia Deportes
+http://btvboliviatv.srfms.com:6568/live/livestream/playlist.m3u8
+
+EXTINF:-1, Betis Tv
+https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8
+
+#EXTINF:-1, Edge Sports
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5628000/index.m3u8
+
+#EXTINF:-1, Olimpic Channel HD
+http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
+
+#EXTINF:-1, SKY News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8?xtreamiptv.m3u8
+
+#EXTINF:-1, Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
+
+#EXTINF:-1, BFM Sport
+http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/master.m3u8?xtreamiptv.m3u8
+
+#EXTINF:-1, Fight Time
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
+
+#EXTINF:-1, FLOW SPORTS
+http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
+
+#EXTINF:-1, Redbull TV HD 
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1, DEPORTES:AD Sports 1 HD
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
+
+#EXTINF:-1, DEPORTES:AD Sports 2 HD
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+
+#EXTINF:-1, REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
+
+
+#EXTINF:-1, Real Madrid TV HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?xtreamiptv.m3u8
+
+#EXTINF:-1, Stadium Sports Network
+https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
+
+#EXTINF:-1,24/7: Superbowl LIV
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42553
+
+#EXTINF:-1,24/7: UFC 248
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42544
+
+#EXTINF:-1,24/7: UFC 247
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42540
+
+#EXTINF:-1,24/7: UFC 246
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42552
+
+#EXTINF:-1,24/7: UFC 245
+http://nitro.ltd:25461/StevenD2020/StevFr2019/41947
+
+#EXTINF:-1,24/7: UFC 244
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42537
+
+#EXTINF:-1,24/7: UFC 243
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42538
+
+#EXTINF:-1,24/7: UFC 234
+http://nitro.ltd:25461/StevenD2020/StevFr2019/31798
+
+#EXTINF:-1,24/7: UFC 232
+http://nitro.ltd:25461/StevenD2020/StevFr2019/28760
+
+#EXTINF:-1,24/7: UFC 229
+http://nitro.ltd:25461/StevenD2020/StevFr2019/31677
+
+#EXTINF:-1,24/7: UFC 227
+http://nitro.ltd:25461/StevenD2020/StevFr2019/31678
+
+#EXTINF:-1,24/7: UFC 226
+http://nitro.ltd:25461/StevenD2020/StevFr2019/31679
+
+#EXTINF:-1,24/7: UFC 225
+http://nitro.ltd:25461/StevenD2020/StevFr2019/31680
+
+#EXTINF:-1,24/7: UFC 223
+http://nitro.ltd:25461/StevenD2020/StevFr2019/31672
+
+#EXTINF:-1,24/7: UFC 222
+http://nitro.ltd:25461/StevenD2020/StevFr2019/31673
+
+#EXTINF:-1,24/7: UFC 221
+http://nitro.ltd:25461/StevenD2020/StevFr2019/31776
+
+#EXTINF:-1,24/7: UFC 219
+http://nitro.ltd:25461/StevenD2020/StevFr2019/31774
+
+#EXTINF:-1,24/7: UFC 218
+http://nitro.ltd:25461/StevenD2020/StevFr2019/31773
+
+#EXTINF:-1,24/7: UFC 217
+http://nitro.ltd:25461/StevenD2020/StevFr2019/31772
+
+#EXTINF:-1,24/7: UFC 216
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42556
+
+#EXTINF:-1,24/7: UFC 215
+http://nitro.ltd:25461/StevenD2020/StevFr2019/42555
+
+#EXTINF:-1,24/7: UFC Fight Night 134
+http://nitro.ltd:25461/StevenD2020/StevFr2019/31681
+
+#EXTINF:-1,24/7: UFC 45 Revolution
+http://nitro.ltd:25461/StevenD2020/StevFr2019/31797
+
+#EXTINF:-1,24/7: uFC 44 Undisputed
+http://nitro.ltd:25461/StevenD2020/StevFr2019/31796
+
+#EXTINF:-1,24/7: UFC 43 Meltdown
+http://nitro.ltd:25461/StevenD2020/StevFr2019/31795
+
+#EXTINF:-1,24/7: UFC 42 Sudden Impact
+http://nitro.ltd:25461/StevenD2020/StevFr2019/31794
+
+#EXTINF:-1,24/7: UFC 41 Onslaught
+http://nitro.ltd:25461/StevenD2020/StevFr2019/31792
+
+#EXTINF:-1,24/7: UFC 15 Collision Course
+http://nitro.ltd:25461/StevenD2020/StevFr2019/31791
+
+#EXTINF:-1,24/7: UFC 14 Showdown
+http://nitro.ltd:25461/StevenD2020/StevFr2019/31790
+
+#EXTINF:-1,24/7: UFC 13 The Ultimate Force
+http://nitro.ltd:25461/StevenD2020/StevFr2019/31789
+
+#EXTINF:-1,24/7: UFC on ESPN 5: Covington vs. Lawler
+http://nitro.ltd:25461/StevenD2020/StevFr2019/40750
+
+
+
+
+
